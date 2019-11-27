@@ -1,0 +1,48 @@
+Date : 2019-11-27 21:06:17
+Directory : e:\New folder\Project\hapi\lib
+Total : 22 files,  1615 codes, 0 comments, 48 blanks, all 1663 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Dart     |         22 |      1,615 |          0 |         48 |      1,663 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                        | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                           |         22 |      1,615 |          0 |         48 |      1,663 |
+| components                                                                  |          9 |        604 |          0 |         18 |        622 |
+| model                                                                       |         11 |        980 |          0 |         22 |      1,002 |
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                    | language | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| e:\New folder\Project\hapi\lib\components\button_component.dart             | Dart     |         33 |          0 |          2 |         35 |
+| e:\New folder\Project\hapi\lib\components\diachi_component.dart             | Dart     |         87 |          0 |          2 |         89 |
+| e:\New folder\Project\hapi\lib\components\dichvu_sotien_component.dart      | Dart     |         41 |          0 |          2 |         43 |
+| e:\New folder\Project\hapi\lib\components\icon_and_statusbar_component.dart | Dart     |         51 |          0 |          2 |         53 |
+| e:\New folder\Project\hapi\lib\components\sothe_component.dart              | Dart     |         37 |          0 |          2 |         39 |
+| e:\New folder\Project\hapi\lib\components\spashscreen1_component.dart       | Dart     |        105 |          0 |          2 |        107 |
+| e:\New folder\Project\hapi\lib\components\splashscreen2_component.dart      | Dart     |        116 |          0 |          2 |        118 |
+| e:\New folder\Project\hapi\lib\components\sum_component.dart                | Dart     |        106 |          0 |          2 |        108 |
+| e:\New folder\Project\hapi\lib\components\tongtien_component.dart           | Dart     |         28 |          0 |          2 |         30 |
+| e:\New folder\Project\hapi\lib\const.dart                                   | Dart     |         17 |          0 |          4 |         21 |
+| e:\New folder\Project\hapi\lib\main.dart                                    | Dart     |         14 |          0 |          4 |         18 |
+| e:\New folder\Project\hapi\lib\model\control_screen.dart                    | Dart     |        147 |          0 |          2 |        149 |
+| e:\New folder\Project\hapi\lib\model\naptienthethanhtoan_screen.dart        | Dart     |         55 |          0 |          2 |         57 |
+| e:\New folder\Project\hapi\lib\model\nopvienphi2_screen.dart                | Dart     |         49 |          0 |          2 |         51 |
+| e:\New folder\Project\hapi\lib\model\nopvienphi3_screen.dart                | Dart     |         68 |          0 |          2 |         70 |
+| e:\New folder\Project\hapi\lib\model\nopvienphi4_screen.dart                | Dart     |         59 |          0 |          2 |         61 |
+| e:\New folder\Project\hapi\lib\model\nopvienphi5_screen.dart                | Dart     |        144 |          0 |          2 |        146 |
+| e:\New folder\Project\hapi\lib\model\ruttientuthe2_screen.dart              | Dart     |         51 |          0 |          2 |         53 |
+| e:\New folder\Project\hapi\lib\model\ruttientuthe3_screen.dart              | Dart     |         69 |          0 |          2 |         71 |
+| e:\New folder\Project\hapi\lib\model\thanhtoanvienphi1_screen.dart          | Dart     |        133 |          0 |          2 |        135 |
+| e:\New folder\Project\hapi\lib\model\thanhtoanvienphi2_screen.dart          | Dart     |        114 |          0 |          2 |        116 |
+| e:\New folder\Project\hapi\lib\model\tracuuthongtinthe1_screen.dart         | Dart     |         91 |          0 |          2 |         93 |
+| Total                                                                       |          |      1,615 |          0 |         48 |      1,663 |
++-----------------------------------------------------------------------------+----------+------------+------------+------------+------------+
